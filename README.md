@@ -54,19 +54,22 @@ print("{:.2}".format(inf_matrix))
 <br>
 <br>
 <br>
-![alt text](image-3.png)
+<img width="597" height="360" alt="image" src="https://github.com/user-attachments/assets/d526f050-a068-4fb6-b60b-a52e25b56a35" />
+
 
 ### 2-Norm of a Matrix
 <br>
 <br>
 <br>
-![alt text](image-4.png)
+<img width="580" height="407" alt="image" src="https://github.com/user-attachments/assets/af6fe0cb-85fb-46d1-82cd-88d2b904a75e" />
+
 
 ### Infinity Norm of a Matrix
 <br>
 <br>
 <br>
-![alt text](image-5.png)
+<img width="582" height="371" alt="image" src="https://github.com/user-attachments/assets/215f3297-4dea-412a-84d2-30f91bfee3cd" />
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
